@@ -59,7 +59,6 @@ jobs:
           # linux/arm/v7 is for 32-bit ARM devices like Raspberry Pi 2/3
           platforms: linux/amd64,linux/arm64
 
-
 #NEW: (START) ##########################################################
         # If PR, put image tags in the PR comments
         # from https://github.com/marketplace/actions/create-or-update-comment
